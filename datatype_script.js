@@ -8,13 +8,13 @@ let ans = true; //Boolean
 let c = null; //Null
 
 //Reference Types: Object, Array, Function
-let a =[1,2,3]; //Array
+let array =[1,2,3]; //Array
 
-let b = {
+let person = {
     name:"Sai",
     age: 22
 }; //Object
 
-let c = function(){
+let greet = function(){
   console.log("Hello World");
 }; //Function
