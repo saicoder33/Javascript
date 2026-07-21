@@ -18,3 +18,6 @@ let person = {
 let greet = function(){
   console.log("Hello World");
 }; //Function
+
+
+//Type coercion
